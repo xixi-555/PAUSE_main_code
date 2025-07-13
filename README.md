@@ -2,8 +2,11 @@
 
 This repository provides the PyTorch implementation of **PAUSE**, proposed in the paper *Robust Multi-view Clustering via Pseudo Label Guided Universum Learning*.
 
-<img src="assets/PAUSE_FRAME(a).png" alt="Framework A" height="200"/>
-<img src="assets/PAUSE_FRAME(b).png" alt="Framework B" height="200"/>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="assets/PAUSE_FRAME(a).png" alt="Framework A" height="280"/>
+  <img src="assets/PAUSE_FRAME(b).png" alt="Framework B" height="280"/>
+</div>
+
 
 
 ## 🍭 Requirements
