@@ -35,4 +35,4 @@ python main_train.py
 
 ## 🎀 Acknowledgement
 
-This implementation is based on [Candy](https://github.com/XLearning-SCU/2024-NeurIPS-CANDY).
+This implementation is based on [DIVIDE](https://github.com/XLearning-SCU/2024-AAAI-DIVIDE).
