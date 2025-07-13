@@ -1,0 +1,9 @@
+dataset: NoisyMNIST
+
+recognition_model_dims:
+  - [784, 1024, 1024, 128]
+  - [784, 1024, 1024, 128]
+
+generative_model_dims:
+  - [128, 1024, 1024, 784]
+  - [128, 1024, 1024, 784]

@@ -1,0 +1,11 @@
+dataset: WIKI
+
+recognition_model_dims:
+  - [128, 1024, 1024, 128]
+  - [10, 1024, 1024, 128]
+
+generative_model_dims:
+  - [128, 1024, 1024, 128]
+  - [128, 1024, 1024, 10]
+
+warmup_lr: 0.00001

@@ -1,0 +1,10 @@
+dataset: NUSWIDE
+
+recognition_model_dims:
+  - [4096, 1024, 1024, 64]
+  - [300, 1024, 1024, 64]
+
+generative_model_dims:
+  - [64, 1024, 1024, 4096]
+  - [64, 1024, 1024, 300]
+

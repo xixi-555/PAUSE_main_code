@@ -1,0 +1,9 @@
+dataset: CUB
+
+recognition_model_dims:
+  - [1024, 1024, 1024, 128]
+  - [300, 1024, 1024, 128]
+
+generative_model_dims:
+  - [128, 1024, 1024, 1024]
+  - [128, 1024, 1024, 300]
